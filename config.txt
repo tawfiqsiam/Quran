@@ -1,6 +1,6 @@
 owner=507978910512709642
 prefix=Quran
-game=Break | Quran
+game=Break | 1Quran
 stayinchannel=true
 songinstatus=false
 token=NTQ0MjAzNTI2NDExMTI0NzQ2.D0du4A.WNnpRv2i-fuLS84XjA8E-kILZmA
