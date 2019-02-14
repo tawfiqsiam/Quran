@@ -1,5 +1,5 @@
 owner=507978910512709642
-prefix=Quran
+prefix=1
 game=Break | 1Quran
 stayinchannel=true
 songinstatus=false
