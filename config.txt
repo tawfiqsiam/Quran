@@ -1,6 +1,6 @@
 owner=535544621514883093
 prefix=1
-game=Break | 1Quran
+game=1play | Your mom is gay
 stayinchannel=true
 songinstatus=false
 token='process.env.BOT_TOKEN'; // حط توكن البوت هنا
