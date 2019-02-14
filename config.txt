@@ -3,4 +3,4 @@ prefix=1
 game=1play | Your mom is gay
 stayinchannel=true
 songinstatus=false
-token='process.env.BOT_TOKEN'; // حط توكن البوت هنا
+token= process.env.BOT_TOKEN
